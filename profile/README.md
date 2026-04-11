@@ -16,6 +16,9 @@ Every project is direct — you work with the technical lead from day one.
 
 | Project | Description | Status |
 |---------|-------------|--------|
+| **[densitree](https://github.com/fuzue/densitree)** | Density-normalized clustering with minimum spanning tree construction — state-of-the-art SPADE for cytometry, single-cell, and high-dimensional data | Released |
+| **[pykinbiont](https://github.com/fuzue/pykinbiont)** | Python interface to the KinBiont.jl ecosystem — microbial growth curve analysis and kinetics tooling for Python workflows | Released |
+| **[KinBiont.jl](https://github.com/pinheiroGroup/KinBiont.jl)** | Numerical methods ecosystem for microbial kinetics data analysis — growth curve fitting, model selection, and comparative analysis | Released |
 | **GUIbiont** | Graphical interface for bacterial growth curve analysis (KinBiont.jl integration) | In development |
 | **AutoGate** | Automated, reproducible gating for flow cytometry data | In development |
 | **ChiBio UI** | Control interface for the chi.bio open bioreactor platform | In development |
