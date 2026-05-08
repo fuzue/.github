@@ -18,7 +18,7 @@ Every project is direct — you work with the technical lead from day one.
 |---------|-------------|--------|
 | **[densitree](https://github.com/fuzue/densitree)** | Density-normalized clustering with minimum spanning tree construction — state-of-the-art SPADE for cytometry, single-cell, and high-dimensional data | Released |
 | **[pykinbiont](https://github.com/fuzue/pykinbiont)** | Python interface to the KinBiont.jl ecosystem — microbial growth curve analysis and kinetics tooling for Python workflows | Released |
-| **[memagent](https://github.com/fuzue/memagent)** | Persistent, queryable memory for Claude Code — a hierarchical knowledge graph that captures people, projects, and decisions across sessions ([memagent.fuzue.tech](https://memagent.fuzue.tech)) | Released |
+| **[pamiec](https://github.com/fuzue/pamiec)** | Persistent, queryable memory for Claude Code — a hierarchical knowledge graph that captures people, projects, and decisions across sessions ([pamiec.fuzue.tech](https://pamiec.fuzue.tech)) | Released |
 | **[KinBiont.jl](https://github.com/pinheiroGroup/KinBiont.jl)** | Numerical methods ecosystem for microbial kinetics data analysis — growth curve fitting, model selection, and comparative analysis | Released |
 | **GUIbiont** | Graphical interface for bacterial growth curve analysis (KinBiont.jl integration) | In development |
 | **AutoGate** | Automated, reproducible gating for flow cytometry data | In development |
