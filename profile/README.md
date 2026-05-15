@@ -19,6 +19,7 @@ Every project is direct — you work with the technical lead from day one.
 | **[densitree](https://github.com/fuzue/densitree)** | Density-normalized clustering with minimum spanning tree construction — state-of-the-art SPADE for cytometry, single-cell, and high-dimensional data | Released |
 | **[pykinbiont](https://github.com/fuzue/pykinbiont)** | Python interface to the KinBiont.jl ecosystem — microbial growth curve analysis and kinetics tooling for Python workflows | Released |
 | **[pamiec](https://github.com/fuzue/pamiec)** | Persistent, queryable memory for Claude Code — a hierarchical knowledge graph that captures people, projects, and decisions across sessions ([pamiec.fuzue.tech](https://pamiec.fuzue.tech)) | Released |
+| **[share-gpx](https://github.com/fuzue/share-gpx)** | Self-hosted GPX trail sharing — interactive 2D map, elevation profile, and 3D first-person terrain flythrough in a single Go binary | Released |
 | **[KinBiont.jl](https://github.com/pinheiroGroup/KinBiont.jl)** | Numerical methods ecosystem for microbial kinetics data analysis — growth curve fitting, model selection, and comparative analysis | Released |
 | **[BayesBiont.jl](https://github.com/fuzue/BayesBiont.jl)** | Bayesian companion to KinBiont.jl — NUTS sampling via Turing.jl, hierarchical pooling across replicates, PSIS-LOO model comparison ([bayesbiont.fuzue.tech](https://bayesbiont.fuzue.tech)) | Released |
 | **GUIbiont** | Graphical interface for bacterial growth curve analysis (KinBiont.jl integration) | In development |
