@@ -12,6 +12,12 @@ Every project is direct — you work with the technical lead from day one.
 
 ---
 
+## Products
+
+| Product | Description | Status |
+|---------|-------------|--------|
+| **[Scipeer](https://scipeer.io)** | AI reasoning partner for researchers — persistent knowledge graph connecting experiments, literature, and decisions so every AI session starts with full context ([scipeer.io](https://scipeer.io)) | Private beta |
+
 ## Open Source
 
 | Project | Description | Status |
