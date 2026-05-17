@@ -34,6 +34,12 @@ Every project is direct — you work with the technical lead from day one.
 
 Developed in collaboration with the [Pinheiro Group](https://www.humantechnopole.it) at Human Technopole, Milan.
 
+## Open Knowledge
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| **[AI: A Living Reference](https://ai.fuzue.tech)** | A research-oriented, continuously-updated reference for modern AI — deep learning, foundation models, LLMs, generative models, RL, agents, interpretability, alignment, causality. Content CC BY-SA 4.0; chapters revised in place ([ai.fuzue.tech](https://ai.fuzue.tech), [source](https://github.com/fuzue/ai.fuzue.tech)) | Living |
+
 ---
 
 ## Services
