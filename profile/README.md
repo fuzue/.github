@@ -30,7 +30,7 @@ Every project is direct — you work with the technical lead from day one.
 | **[BayesBiont.jl](https://github.com/fuzue/BayesBiont.jl)** | Bayesian companion to KinBiont.jl — NUTS sampling via Turing.jl, hierarchical pooling across replicates, PSIS-LOO model comparison ([bayesbiont.fuzue.tech](https://bayesbiont.fuzue.tech)) | Released |
 | **GUIbiont** | Graphical interface for bacterial growth curve analysis (KinBiont.jl integration) | In development |
 | **AutoGate** | Automated, reproducible gating for flow cytometry data | In development |
-| **ChiBio UI** | Control interface for the chi.bio open bioreactor platform | In development |
+| **[ChiBio Next](https://github.com/fuzue/chibio-next)** | Modular rewrite of the [chi.bio](https://chi.bio) bioreactor operating system — hexagonal hardware abstraction, runs on real I²C hardware or a Python physics simulator ([chibio-next.fuzue.tech](https://chibio-next.fuzue.tech)) | In development |
 
 Developed in collaboration with the [Pinheiro Group](https://www.humantechnopole.it) at Human Technopole, Milan.
 
