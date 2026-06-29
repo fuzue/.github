@@ -8,7 +8,7 @@ hardware interfaces, machine learning systems, and rigorous scientific software 
 Every project is direct — you work with the technical lead from day one.
 
 **Published in [Nature Communications](https://www.nature.com/articles/s41467-025-61592-6)** ·
-[#5 Polish company on the Nature Index](https://www.nature.com/nature-index/institution-outputs/Poland/Fuzu%C3%AA%20Tech/68f0bc2db6e68d94150177b3)
+[#11 Polish company on the Nature Index](https://www.nature.com/nature-index/institution-outputs/Poland/Fuzu%C3%AA%20Tech/68f0bc2db6e68d94150177b3)
 
 ---
 
