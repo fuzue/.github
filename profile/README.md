@@ -28,7 +28,7 @@ Every project is direct — you work with the technical lead from day one.
 | **[share-gpx](https://github.com/fuzue/share-gpx)** | Self-hosted GPX trail sharing — interactive 2D map, elevation profile, and 3D first-person terrain flythrough in a single Go binary | Released |
 | **[KinBiont.jl](https://github.com/pinheiroGroup/KinBiont.jl)** | Numerical methods ecosystem for microbial kinetics data analysis — growth curve fitting, model selection, and comparative analysis | Released |
 | **[BayesBiont.jl](https://github.com/fuzue/BayesBiont.jl)** | Bayesian companion to KinBiont.jl — NUTS sampling via Turing.jl, hierarchical pooling across replicates, PSIS-LOO model comparison ([bayesbiont.fuzue.tech](https://bayesbiont.fuzue.tech)) | Released |
-| **GUIbiont** | Graphical interface for bacterial growth curve analysis (KinBiont.jl integration) | In development |
+| **[GUIbiont](https://github.com/pinheiroGroup/GUIbiont)** | Browser-based microbial growth phenotyping from plate-reader data — QC, fitting across 30+ parametric and ODE models, trajectory clustering, batch processing; every analysis exports as an executable Julia script on KinBiont.jl ([pinheirogroup.github.io/GUIbiont](https://pinheirogroup.github.io/GUIbiont/)) | Released |
 | **[Cytometrika](https://cytometrika.fuzue.tech)** | Automated, reproducible gating for flow cytometry data | In development |
 | **[ChiBio Next](https://github.com/fuzue/chibio-next)** | Modular rewrite of the [chi.bio](https://chi.bio) bioreactor operating system — hexagonal hardware abstraction, runs on real I²C hardware or a Python physics simulator ([chibio-next.fuzue.tech](https://chibio-next.fuzue.tech)) | In development |
 
